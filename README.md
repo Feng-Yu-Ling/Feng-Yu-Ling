@@ -1,4 +1,10 @@
-## Hi there 👋
+# Feng-Yu-Ling (Shu-Yu Lin)
+
+## 認證和徽章
+
+<a href="https://www.credly.com/badges/21f759c5-b737-45cb-87f0-badbfdc1f413/public_url">
+  <img src="https://raw.githubusercontent.com/Feng-Yu-Ling/profile-badges/main/microsoft-certified-azure-ai-fundamentals.png" width="200" height="200" />
+</a>
 
 <!--
 **Feng-Yu-Ling/Feng-Yu-Ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
